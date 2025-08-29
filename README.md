@@ -3,7 +3,7 @@
 
 # Hi there, I'm Haneef! 👋
 
-I'm a passionate software developer with a background in Computer Science. Currently, I'm working with technologies like cypress, smalltalk and fastAPI in my coop at Kore. I'm also always exploring new tools and techniques to improve my coding skills.
+I'm a passionate software developer with a background in Computer Science. I worked with technologies like cypress, smalltalk and fastAPI in my coop at Kore. I'm also always exploring new tools and techniques to improve my coding skills. In my free time, I play soccer, watch movies and take photos with my DSLR!
 
 ## Let's Connect!
 
